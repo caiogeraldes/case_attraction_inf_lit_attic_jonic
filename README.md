@@ -4,7 +4,7 @@
 
 **Supervisor: José Marcos Mariani de Macedo**
 
-Version: `0.1.0` 
+Version: `0.1.0`
 
 **NOTE:** This is a *pre-publication* version of the data.
 There may be updates in the near future, which might include additions, 
