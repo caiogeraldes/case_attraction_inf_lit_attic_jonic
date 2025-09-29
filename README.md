@@ -2,6 +2,8 @@
 
 **Author: Caio Geraldes**
 
+**Supervisor: José Marcos Mariani de Macedo**
+
 Version: `0.1.0` 
 
 **NOTE:** This is a *pre-publication* version of the data.
