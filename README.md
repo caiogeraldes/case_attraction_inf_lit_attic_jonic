@@ -1,4 +1,4 @@
-# Database for Case Attraction in Infinitive Clauses in Literary Attic and Jonic
+# Database for Case Attraction in Infinitive Clauses in Literary Attic and Jonic Greek
 
 **Author: Caio Geraldes**
 
