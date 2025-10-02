@@ -4,7 +4,7 @@
 
 **Supervisor: José Marcos Mariani de Macedo**
 
-Version: `0.1.0`
+Version: `0.1.1`
 
 **NOTE:** This is a *pre-publication* version of the data.
 There may be updates in the near future, which might include additions, 
@@ -48,3 +48,22 @@ The columns are annotated as follows:
 - `GENRE`
 - `DIALECT`
 - `Variation`: manuscript variation of `Obj`, if existent
+
+## Scripts
+
+The files in `scripts/` contain the `R` scripts used to produce the plots and
+estimates of the thesis.
+You should be able to run these scripts with `R` version `4.4.3 (2025-02-28) -- "Trophy Case"` after installing the dependency packages with:
+
+```r
+# General dependencies
+install.packages(
+  c(
+    "coda", "mvtnorm", "devtools", "loo", "dagitty",
+    "shape", "ggdag", "bayesplot", "FactoMineR", "factoextra",
+    "tidyverse", "gtools", "ggcheck", "vcd", "ca", "ggridges"
+  )
+)
+# Rethinking package
+devtools::install_github("rmcelreath/rethinking")
+```

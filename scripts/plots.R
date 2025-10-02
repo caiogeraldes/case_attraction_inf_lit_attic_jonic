@@ -1,6 +1,5 @@
 library(rethinking)
 library(tidyverse)
-library(kableExtra)
 require(gtools)
 require(ggcheck)
 require(vcd)

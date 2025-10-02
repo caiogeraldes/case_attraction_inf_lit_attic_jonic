@@ -1,6 +1,5 @@
-library(tidyverse)
-library(kableExtra)
 library(rethinking)
+library(tidyverse)
 library(dagitty)
 library(ggdag)
 
